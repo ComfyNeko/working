@@ -1,2 +1,2 @@
-FROM PHP 7.2.24-0ubuntu0.18.04.7
+FROM php:7.3.27-apache
 COPY . /usr/bin/php
